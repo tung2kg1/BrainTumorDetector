@@ -12,7 +12,7 @@
     ```
     
 2.  **Download the model:**
-...
+(https://drive.google.com/file/d/1teCpCkbvNYRhxftOEl2X3xgLu_gs8jah/view?usp=drive_link)
 
 3.  **Create a virtual environment:**
     
