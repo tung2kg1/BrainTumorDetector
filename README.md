@@ -10,20 +10,23 @@
     git clone [https://github.com/tung2kg1/Brain-Tumor-Detector-With-AI-Chatbot.git](https://github.com/tung2kg1/Brain-Tumor-Detector-With-AI-Chatbot.git)
     cd Brain-Tumor-Detector-With-AI-Chatbot
     ```
+    
+2.  **Download the model:**
+...
 
-2.  **Create a virtual environment:**
+3.  **Create a virtual environment:**
     
 ```bash
     python -m venv venv
     source venv/bin/activate  # Windows: venv\Scripts\activate
-    ```
+```
 
-3.  **Install dependencies:**
+4.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Environment Variables:**
+5.  **Environment Variables:**
     To enable the AI chatbot functionality, you must provide a **Google Gemini API Key**. Create a `.env` file in the root directory and add your key as follows:
     ```env
     GOOGLE_API_KEY=your_gemini_api_key_here
