@@ -12,14 +12,15 @@
     ```
     
 2.  **Download the model:**
-(https://drive.google.com/file/d/1teCpCkbvNYRhxftOEl2X3xgLu_gs8jah/view?usp=drive_link)
+    ```
+    (https://drive.google.com/file/d/1teCpCkbvNYRhxftOEl2X3xgLu_gs8jah/view?usp=drive_link)
+    ```
 
-3.  **Create a virtual environment:**
-    
-```bash
-    python -m venv venv
-    source venv/bin/activate  # Windows: venv\Scripts\activate
-```
+4.  **Create a virtual environment:**
+    ```bash
+        python -m venv venv
+        source venv/bin/activate  # Windows: venv\Scripts\activate
+    ```
 
 4.  **Install dependencies:**
     ```bash
